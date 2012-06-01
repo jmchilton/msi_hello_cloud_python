@@ -1,0 +1,5 @@
+apache-libcloud==0.10.1
+pyyaml
+## fabric can be used to remotely run shell commands and transfer files to and from your cloud VM.
+#fabric
+

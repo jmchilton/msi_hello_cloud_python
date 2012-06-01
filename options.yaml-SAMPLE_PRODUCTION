@@ -1,0 +1,7 @@
+---
+cloud_settings:
+  provider: "EUCALYPTUS"
+  ec2_access_key: "123456"
+  ec2_secret_key: "123456"
+  api_host: "cloud.msi.umn.edu"
+  

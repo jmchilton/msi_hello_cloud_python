@@ -1,0 +1,11 @@
+This is an example Python project that illustrates how to use libcloud
+to connect to the Minnesota Supercomputing Institutes OpenStack cloud
+infrastructure.
+
+To use this first copy options.yaml-SAMPLE_STAGING or
+options.yaml-SAMPLE_PRODUCTION to options.yaml. Next specify your EC2
+access and secret key in options.yaml.
+
+Next simply the script run.sh, this should print out the nodes running
+in your project on the specified cloud. run.sh should also install
+Python virtualenv and any needed Python dependencies.
